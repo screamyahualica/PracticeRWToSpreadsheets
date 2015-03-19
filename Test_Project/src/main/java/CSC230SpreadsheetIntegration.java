@@ -47,7 +47,6 @@ public class CSC230SpreadsheetIntegration
 			
 			
 		}
-		
 		else
 			System.out.println("Could not find the worksheet");
 		
